@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manoj Kumar Paladugu</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manojkumarpaladugu&label=Profile%20views&color=0e75b6&style=flat" alt="manojkumarpaladugu" /> </p>
-
 - 🌱 I’m currently learning **SSD FW, Security Firmware**
 
 - 👨‍💻 All of my technical documents are available at https://manoj-kumar-paladugu.gitbook.io/manoj-kumar-paladugu
